@@ -51,4 +51,3 @@ for participante in participantes:
 
 
 
-
